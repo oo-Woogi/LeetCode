@@ -16,4 +16,12 @@ Repository for recording LeetCode Aigorithm problem solving
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/oo-Woogi/LeetCode/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/oo-Woogi/LeetCode/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/oo-Woogi/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
