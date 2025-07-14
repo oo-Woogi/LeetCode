@@ -17,6 +17,7 @@ Repository for recording LeetCode Aigorithm problem solving
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/oo-Woogi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/oo-Woogi/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/oo-Woogi/LeetCode/tree/master/0242-valid-anagram) |
 ## Array
@@ -24,6 +25,7 @@ Repository for recording LeetCode Aigorithm problem solving
 | ------- |
 | [0014-longest-common-prefix](https://github.com/oo-Woogi/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/oo-Woogi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/oo-Woogi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/oo-Woogi/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/oo-Woogi/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/oo-Woogi/LeetCode/tree/master/0283-move-zeroes) |
@@ -31,6 +33,7 @@ Repository for recording LeetCode Aigorithm problem solving
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/oo-Woogi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/oo-Woogi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/oo-Woogi/LeetCode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
