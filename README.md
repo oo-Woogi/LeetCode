@@ -30,6 +30,7 @@ Repository for recording LeetCode Aigorithm problem solving
 | [0136-single-number](https://github.com/oo-Woogi/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/oo-Woogi/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/oo-Woogi/LeetCode/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/oo-Woogi/LeetCode/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +66,8 @@ Repository for recording LeetCode Aigorithm problem solving
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/oo-Woogi/LeetCode/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/oo-Woogi/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
