@@ -7,6 +7,7 @@ Repository for recording LeetCode Aigorithm problem solving
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/oo-Woogi/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/oo-Woogi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/oo-Woogi/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/oo-Woogi/LeetCode/tree/master/0242-valid-anagram) |
 ## Hash Table
@@ -35,6 +36,7 @@ Repository for recording LeetCode Aigorithm problem solving
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/oo-Woogi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/oo-Woogi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/oo-Woogi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/oo-Woogi/LeetCode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
@@ -70,4 +72,8 @@ Repository for recording LeetCode Aigorithm problem solving
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/oo-Woogi/LeetCode/tree/master/0724-find-pivot-index) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/oo-Woogi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
