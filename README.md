@@ -10,6 +10,7 @@ Repository for recording LeetCode Aigorithm problem solving
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/oo-Woogi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/oo-Woogi/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/oo-Woogi/LeetCode/tree/master/0242-valid-anagram) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/oo-Woogi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Repository for recording LeetCode Aigorithm problem solving
 ## Math
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/oo-Woogi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/oo-Woogi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
