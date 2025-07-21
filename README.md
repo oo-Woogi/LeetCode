@@ -15,6 +15,7 @@ Repository for recording LeetCode Aigorithm problem solving
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/oo-Woogi/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/oo-Woogi/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/oo-Woogi/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -39,6 +40,7 @@ Repository for recording LeetCode Aigorithm problem solving
 | [0026-remove-duplicates-from-sorted-array](https://github.com/oo-Woogi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/oo-Woogi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/oo-Woogi/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/oo-Woogi/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/oo-Woogi/LeetCode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
@@ -47,6 +49,7 @@ Repository for recording LeetCode Aigorithm problem solving
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/oo-Woogi/LeetCode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/oo-Woogi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/oo-Woogi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
