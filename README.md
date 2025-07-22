@@ -17,6 +17,7 @@ Repository for recording LeetCode Aigorithm problem solving
 | [0169-majority-element](https://github.com/oo-Woogi/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/oo-Woogi/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/oo-Woogi/LeetCode/tree/master/0242-valid-anagram) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/oo-Woogi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Repository for recording LeetCode Aigorithm problem solving
 | [0169-majority-element](https://github.com/oo-Woogi/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/oo-Woogi/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/oo-Woogi/LeetCode/tree/master/0724-find-pivot-index) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/oo-Woogi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
