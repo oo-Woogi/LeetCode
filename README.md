@@ -36,6 +36,7 @@ Repository for recording LeetCode Aigorithm problem solving
 | [0169-majority-element](https://github.com/oo-Woogi/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/oo-Woogi/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/oo-Woogi/LeetCode/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/oo-Woogi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/oo-Woogi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/oo-Woogi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Two Pointers
@@ -60,6 +61,7 @@ Repository for recording LeetCode Aigorithm problem solving
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oo-Woogi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0747-min-cost-climbing-stairs](https://github.com/oo-Woogi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/oo-Woogi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
