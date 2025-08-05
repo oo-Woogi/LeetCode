@@ -9,6 +9,7 @@ Repository for recording LeetCode Aigorithm problem solving
 | [0014-longest-common-prefix](https://github.com/oo-Woogi/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/oo-Woogi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/oo-Woogi/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/oo-Woogi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/oo-Woogi/LeetCode/tree/master/0242-valid-anagram) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/oo-Woogi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Hash Table
@@ -50,6 +51,7 @@ Repository for recording LeetCode Aigorithm problem solving
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/oo-Woogi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/oo-Woogi/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/oo-Woogi/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/oo-Woogi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/oo-Woogi/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/oo-Woogi/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/oo-Woogi/LeetCode/tree/master/0283-move-zeroes) |
