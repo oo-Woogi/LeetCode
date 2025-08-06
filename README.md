@@ -11,6 +11,7 @@ Repository for recording LeetCode Aigorithm problem solving
 | [0058-length-of-last-word](https://github.com/oo-Woogi/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/oo-Woogi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/oo-Woogi/LeetCode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/oo-Woogi/LeetCode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/oo-Woogi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ Repository for recording LeetCode Aigorithm problem solving
 | [0189-rotate-array](https://github.com/oo-Woogi/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/oo-Woogi/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/oo-Woogi/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/oo-Woogi/LeetCode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Repository for recording LeetCode Aigorithm problem solving
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oo-Woogi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/oo-Woogi/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/oo-Woogi/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/oo-Woogi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/oo-Woogi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
