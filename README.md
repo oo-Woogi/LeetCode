@@ -18,6 +18,7 @@ Repository for recording LeetCode Aigorithm problem solving
 | ------- |
 | [0169-majority-element](https://github.com/oo-Woogi/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/oo-Woogi/LeetCode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/oo-Woogi/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/oo-Woogi/LeetCode/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/oo-Woogi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/oo-Woogi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -40,6 +41,7 @@ Repository for recording LeetCode Aigorithm problem solving
 | [0136-single-number](https://github.com/oo-Woogi/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/oo-Woogi/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/oo-Woogi/LeetCode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/oo-Woogi/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/oo-Woogi/LeetCode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/oo-Woogi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/oo-Woogi/LeetCode/tree/master/0724-find-pivot-index) |
@@ -117,6 +119,7 @@ Repository for recording LeetCode Aigorithm problem solving
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/oo-Woogi/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/oo-Woogi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
