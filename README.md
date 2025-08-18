@@ -10,6 +10,7 @@ Repository for recording LeetCode Aigorithm problem solving
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/oo-Woogi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/oo-Woogi/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/oo-Woogi/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/oo-Woogi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/oo-Woogi/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/oo-Woogi/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/oo-Woogi/LeetCode/tree/master/0392-is-subsequence) |
@@ -19,6 +20,7 @@ Repository for recording LeetCode Aigorithm problem solving
 | ------- |
 | [0169-majority-element](https://github.com/oo-Woogi/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/oo-Woogi/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/oo-Woogi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/oo-Woogi/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/oo-Woogi/LeetCode/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/oo-Woogi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
