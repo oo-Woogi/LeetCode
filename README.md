@@ -139,4 +139,12 @@ Repository for recording LeetCode Aigorithm problem solving
 | [0011-container-with-most-water](https://github.com/oo-Woogi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/oo-Woogi/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/oo-Woogi/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/oo-Woogi/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/oo-Woogi/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
